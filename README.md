@@ -3,7 +3,7 @@
 Publishes files that must be served at the root of `https://harang-dev.github.io/`.
 
 - `robots.txt`: host-wide crawl policy and Poke-Dict sitemap location.
-- `ads.txt`: publish only after the owner confirms the actual AdSense publisher account.
+- `ads.txt`: authorizes the existing AdSense publisher for this host. It does not activate advertising or replace site registration and review.
 - `index.html`: a non-indexable entry point linking to Poke-Dict; the app is deployed separately.
 
 GitHub Pages serves the `main` branch root. `.nojekyll` keeps the files as static assets.
