@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://harang-dev.github.io/Poke-Dict.io/sitemap.xml
